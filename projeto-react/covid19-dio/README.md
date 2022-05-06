@@ -1,4 +1,4 @@
-#Projeto de Desenvolvimento de Aplicação em React
+# Projeto de Desenvolvimento de Aplicação em React
 
 * Criação de PWA para mapear dados do COVID19
 * Práticas:
