@@ -1,3 +1,17 @@
+# Projeto de Desenvolvimento de Aplicação em React
+
+* Criação de PWA para mapear dados do COVID19
+* Práticas:
+  * Componentização
+  * Organização e estruturação da app
+  * Aplicação de estilo com JS em CSS
+  * Utilização de Bibliotecas: MaterialUI, Styled-Components, Skeleton, etc.
+  * Chamada de API
+  * Otimização da App para mobile
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
